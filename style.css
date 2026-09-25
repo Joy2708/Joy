@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffb9ed;
+    background-color: #f1c2e6;
 
     line-height: 1.6;
     
@@ -17,12 +17,12 @@ a {
     text-decoration: none;
 }
  span {
-    color: blue;
+    color: rgb(235, 38, 136);
 }
 
 nav ul li a {
    text-decoration: none;
-   color: olive;
+   color: rgb(235, 215, 227);
 
 
 }
@@ -37,7 +37,7 @@ nav ul li
 }
 nav ul 
 {
- background-color: sandybrown;
+ background-color: rgb(233, 117, 185);
  border-style:solid ;
 border-width: 2px ;
 border-color: aliceblue;
